@@ -2,7 +2,7 @@
 section: issue
 title: compassRobbery Downtime
 date: 2024-05-25T00:08:09.302Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
